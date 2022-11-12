@@ -1,0 +1,12 @@
+
+k	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÔÖ«øÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(åÿÃøÿÿÿÿ
+p	java:S116"[Rename this field "transaction_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãè
+;
+java:S2129'" Remove this "String" constructor(•ÔÖ«øÿÿÿÿ
+6
+java:S2129(" Remove this "String" constructor(À½Üé
+;
+java:S2129)" Remove this "String" constructor(îşŞ™ıÿÿÿÿ
+<
+java:S2129*"!Remove this "Integer" constructor(âÅÚ¬üÿÿÿÿ
